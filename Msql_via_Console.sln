@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMSQL", "ConsoleMSQL\ConsoleMSQL.csproj", "{BAA29279-6339-48B0-B671-1C47375B6835}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMsql", "ConsoleMsql\ConsoleMsql.csproj", "{AFB0D4AB-5CCA-4AE4-A17E-F1CB514250B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BAA29279-6339-48B0-B671-1C47375B6835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BAA29279-6339-48B0-B671-1C47375B6835}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BAA29279-6339-48B0-B671-1C47375B6835}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BAA29279-6339-48B0-B671-1C47375B6835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB0D4AB-5CCA-4AE4-A17E-F1CB514250B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB0D4AB-5CCA-4AE4-A17E-F1CB514250B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB0D4AB-5CCA-4AE4-A17E-F1CB514250B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB0D4AB-5CCA-4AE4-A17E-F1CB514250B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
