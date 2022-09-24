@@ -2,7 +2,7 @@
 using MySql.Data.MySqlClient;
 
 var connection = new MySqlConnection
-    ("server=localhost;port=3306;database=ConsoleMsql;user=root;password=Sociologia@98;Persist Security Info=false;Connect Timeout=300");
+    ("server=localhost;port=3306;database=ConsoleMsql;user=root;password=*********;Persist Security Info=false;Connect Timeout=300");
 
 var users = connection.Query<User>
     ("Select id, name, email, password, birthDate from User;");
