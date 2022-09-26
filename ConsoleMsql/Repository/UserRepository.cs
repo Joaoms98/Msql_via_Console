@@ -18,7 +18,7 @@ namespace ConsoleMsql.Repository
             email = Console.ReadLine();
             Console.Write("Whrite user password: ");
             password = Console.ReadLine();
-            
+
             Connection.Execute
             ($"insert into User (Name, Email, Password) values ('{name}', '{email}', '{password}')");
 
